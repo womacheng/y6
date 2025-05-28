@@ -1,7 +1,7 @@
 # 代码运行结果
 
 ## 数据预处理验证
-<img src="https://github.com/womacheng/MC/commit/90655fd94c2973ebf37404a14197ac8cc2753e7d" width="800" alt="classify">
+<img src="https://github.com/womacheng/MC/blob/main/first.png" width="800" alt="classify">
 
 ## 模型结构验证
 <img src="https://github.com/womacheng/MC/blob/main/second.png" width="800" alt="classify">
